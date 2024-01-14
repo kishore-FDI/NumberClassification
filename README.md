@@ -1,4 +1,3 @@
-\
 # Number Classification Project
 
 This project focuses on classifying handwritten digits (0-9) using various machine learning models within a Jupyter Notebook environment. The implemented models include:
